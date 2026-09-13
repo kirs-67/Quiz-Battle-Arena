@@ -10,12 +10,12 @@ A console (and optional GUI) quiz game built for the DSA Prelim Group Project. A
 
 | Name | Role | Contribution |
 |---|---|---|
-| _Stefe Kira R. Albarece_ | Game Producer / Team Leader | Planned the transformation, assigned roles, integrated final build |
+| _Stefe Kira R. Albarece_ | Game Producer / Team Leader | Planned the transformation, assigned roles, integrated final build, demo |
 | _Stefe Kira R. Albarece_ | Lead Game Programmer | Built `engine.py` core loop, question list structure, player state |
 | _Dianne Beatrice Al Kasem_ | Gameplay and Logic Programmer | Implemented lifelines, difficulty filtering, scoring, input validation |
 | _Antonette Hian Serato_ | Assistant Gameplay and Logic Programmer; Documenter| Implemented lifelines, difficulty filtering, scoring, input validation, flowchart |
 | _Trisha Mae Poligrates_ | Game/UI Designer and Writer | Wrote title screen, instructions, GUI layout (`gui.py`) |
-| _Pepito Sia III_ | QA Tester and Documentation Lead | Test cases, bug fixes, README, screenshots, demo |
+| _Pepito Sia III_ | QA Tester and Documentation Lead | Test cases, bug fixes, README, screenshots |
 
 ---
 
